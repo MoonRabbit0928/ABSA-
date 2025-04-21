@@ -80,4 +80,8 @@
 - 개발 환경: Python 3.9, TensorFlow 2.0
 
 
+![loss그래프](https://github.com/user-attachments/assets/38bc3e1d-8721-4cf9-a931-e844560562ea)
+
+![acc그래프](https://github.com/user-attachments/assets/0edd306b-a6cb-4903-a89f-97119752ba85)
+
 
